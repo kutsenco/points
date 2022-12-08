@@ -4,6 +4,5 @@
 <h3 align="center">This is my cool emoji.</h4>
 
 <picture>
-<img style="align-items: center;" alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Twemoji_1f600.svg/800px-Twemoji_1f600.svg.png">
+<img style="align-items: center;" alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://cdn.vox-cdn.com/thumbor/dMh-ftjNvZcHAy1Mw86_Zxiu-Z8=/0x255:2000x1814/1400x1400/filters:focal(840x622:1160x942):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/55924917/emojicover.0.jpg">
 </picture>
-
