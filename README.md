@@ -3,7 +3,7 @@
 <h3 align="center">Computer science student, IT news writer from Ukraine</h3>
 <h3 align="center">This is my cool emoji and why extend</h4>
 
-## Extend, append, +
+## Extend, append, +=
 
 ## Метод extend()додає всі елементи iterable (список, кортеж, рядок тощо) у кінець списку.
 
